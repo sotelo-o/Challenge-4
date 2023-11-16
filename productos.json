@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Smartphone",
+    "description": "Potente smartphone con pantalla HD, cámara de alta resolución y gran capacidad de almacenamiento.",
+    "price": 299,
+    "thumbnail": "smartphone.jpg",
+    "code": "SP123",
+    "stock": 50,
+    "id": 1
+  },
+  {
+    "title": "Laptop",
+    "description": "Laptop ultradelgada y ligera con procesador rápido, memoria RAM amplia y almacenamiento SSD.",
+    "price": 799,
+    "thumbnail": "laptop.jpg",
+    "code": "LP456",
+    "stock": 30,
+    "id": 2
+  },
+  {
+    "title": "Zapatillas Deportivas",
+    "description": "Zapatillas para correr con tecnología de amortiguación avanzada y diseño moderno.",
+    "price": 89,
+    "thumbnail": "zapatillas.jpg",
+    "code": "ZP789",
+    "stock": 100,
+    "id": 3
+  },
+  {
+    "title": "Cámara Digital",
+    "description": "Cámara digital de alta resolución con funciones avanzadas de grabación de video.",
+    "price": 499,
+    "thumbnail": "camara.jpg",
+    "code": "CD234",
+    "stock": 15,
+    "id": 4
+  },
+  {
+    "title": "Licuadora",
+    "price": "108",
+    "id": 5
+  },
+  {
+    "title": "sdsd",
+    "price": "22",
+    "id": 6
+  },
+  {
+    "title": "ssff",
+    "price": "33",
+    "id": 7
+  }
+]
